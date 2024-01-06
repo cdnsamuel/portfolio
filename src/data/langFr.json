@@ -1,0 +1,566 @@
+{
+    "links":{
+        "cv":"Curriculum",
+        "projects":"Réalisations",
+        "contact":"Contact"
+    },
+    "header":{
+        "p1":"Hello there ! Je suis",
+        "h1":"Cardonnel Samuel",
+        "h2":"Je mets toujours du coeur à l'ouvrage",
+        "p2":"Développeur web formé à l'AdminSys.",
+        "p3":"Je recherche une entreprise pour une Alternance => Administrateur systèmes DevOps"
+    },
+    "presentation":{
+        "p1":"Chiropracteur de formation, j'effectue une reconversion dans le secteur du digital.",
+        "p2":"Je dispose d'un titre de Développeur web JavaScript et d'une formation d’Administrateur Systèmes et Réseaux.",
+        "p3":"Inscrit chez Datascientest pour une alternance en DevOps.",
+        "p4":"Je recherche une entreprise où je pourrais mettre en application ces connaissances dans un projet concret.",
+        "availability":"Disponibilité : Mars 2024",
+        "rythm":"Rythme : 3 semaines en entreprise / 1 semaine en formation",
+        "contract":"Contrat de professionnalisation (18 mois)"
+    },
+    "skills":{
+        "languages":{
+            "title":"🚀 Langues",
+            "content":[
+                {
+                    "id":1,
+                    "name":"Français",
+                    "level":"Natif"
+                },
+                {
+                    "id":2,
+                    "name":"Anglais",
+                    "level":"niveau C1"
+                },
+                {
+                    "id":3,
+                    "name":"Espagnol",
+                    "level":"niveau B2"
+                }
+            ]
+        },
+        "programming":{
+            "title":"🚀 Code",
+            "content":[
+                {
+                    "id":1,
+                    "name":"JavaScript"
+                },
+                {
+                    "id":2,
+                    "name":"Bash"
+                },
+                {
+                    "id":3,
+                    "name":"Powershell"
+                },
+                {
+                    "id":4,
+                    "name":"SQL"
+                }
+            ]
+        },
+        "systems":{
+            "title":"🚀 Systèmes",
+            "content":[
+                {
+                    "id":1,
+                    "name":"Windows"
+                },
+                {
+                    "id":2,
+                    "name":"Linux"
+                },
+                {
+                    "id":3,
+                    "name":"WSL 2"
+                },
+                {
+                    "id":4,
+                    "name":"Unraid"
+                }
+            ]
+        },
+        "tools":{
+            "title":"🚀 Outils",
+                "content":[
+                {
+                    "id":1,
+                    "name":"Git"
+                },
+                {
+                    "id":2,
+                    "name":"Docker"
+                },
+                {
+                    "id":3,
+                    "name":"Caprover"
+                },
+                {
+                    "id":4,
+                    "name":"VSCode"
+                }
+            ]
+        },
+        "webdev":{
+            "title":"🚀 Dev",
+            "content":[
+                {
+                    "id":1,
+                    "name":"React"
+                },
+                {
+                    "id":2,
+                    "name":"Express"
+                },
+                {
+                    "id":3,
+                    "name":"MySQL"
+                },
+                {
+                    "id":4,
+                    "name":"Tailwind"
+                },
+                {
+                    "id":5,
+                    "name":"HTML"
+                },            
+                {
+                    "id":6,
+                    "name":"CSS"
+                }
+            ]
+        }
+    },
+    "educationTitle":"Diplômes",
+    "education":[
+        {
+            "id":6,
+            "title":"Alternance Ingénieur DevOps",
+            "period":"Mars 2024 - Septembre 2025",
+            "school":"Datascientest"
+        },
+        {
+            "id":5,
+            "title":"Formation Administrateur Systèmes et Réseaux",
+            "period":"Novembre 2023 - Février 2024",
+            "school":"Wild Code School"
+        },
+        {
+            "id":4,
+            "title":"Titre de Développeur Web & Web Mobile",
+            "period":"Mai 2023 - Octobre 2023",
+            "school":"Wild Code School"
+        },
+        {
+            "id":3,
+            "title":"Chiropracteur",
+            "period":"2010 - 2017",
+            "school":"IFEC Toulouse"
+        },
+        {
+            "id":2,
+            "title":"Bac en Sciences de Laboratoire",
+            "period":"2007 - 2010",
+            "school":"Lycée Antoine Bourdelle"
+        },
+        {
+            "id":1,
+            "title":"Jeune Sapeur Pompier",
+            "period":"2006 - 2009",
+            "school":"SDIS 82"
+        }
+    ],
+    "experiencesTitle":"Expériences",
+    "experiences":[
+        {
+            "id":4,
+            "title":"Ouvrier du bâtiment",
+            "firstYear":"2022",
+            "lastYear":"2023",
+            "enterprise":"HRJ Bâtiments",
+            "description":"Pose de gaines de désenfumage, placo, isolation, ...",
+            "skills":["Coordination des équipes","Endurance","Persévérance","Adaptabilité"]
+        },
+        {
+            "id":3,
+            "title":"Chiropracteur",
+            "firstYear":"2018",
+            "lastYear":"2022",
+            "enterprise":"Cabinet Cardonnel",
+            "description":"Gestion en autonomie totale d'une entreprise, collaboration, remplacements, traitement et suivi des patients, ...",
+            "skills":["Communication","Écoute","Empathie","Analyse","Diagnostic","Traitement","Administratif","Secrétariat"]
+        },
+        {
+            "id":2,
+            "title":"Vendeur en Multimédia",
+            "firstYear":"2013",
+            "lastYear":"2018",
+            "enterprise":"Darty Portet",
+            "description":"Découverte du besoin client pour définir une solution adaptée, gestion des stocks, ...",
+            "skills":["Travail d'équipe","Veille techno.","P.N.L.","Techniques de vente"]
+        },
+        {
+            "id":1,
+            "title":"Vendeur en boulangerie",
+            "firstYear":"2010",
+            "lastYear":"2018",
+            "enterprise":"Boulangerie Cardonnel",
+            "description":"Préparation de commandes, livraisons, mise en rayon, vente, conseil, nettoyage, compte des recettes, ...",
+            "skills":["Relationnel","Fiabilité","Autonomie"]
+        }
+    ],
+    "projects":{
+        "title":"Mes réalisations",
+        "content":[
+            {
+                "id":1,
+                "title":"Présentation des projets",
+                "path":"github.png",
+                "descriptionApp":"Les projets qui vous sont présentés dans cette section sont ceux que j'ai/nous avons réalisés pendant la formation de développeur web entre le mois de Mai et Octobre 2023.",
+                "descriptionContext":"Le code à été rédigé dans le temps imparti précisé dans les fiches de résumé, et n'a pas été retouché par la suite.",
+                 "descriptionAnnex":"Vous pouvez accéder au code en cliquant sur le lien github en dessous, ou une version en production via le bouton démo.",
+                "linkGit":{
+                    "name":"Mon GitHub",
+                    "address":"https://github.com/cdnsamuel"
+                }
+            },
+            {
+                "id":8,
+                "title":"La Taverne",
+                "path":"la-taverne.svg",
+                "descriptionApp":"Site privé reprenant le fonctionnement d'un réseau social avec un mur de posts, commentaires et likes persistés, ainsi qu'une messagerie en direct non-persistée.",
+                "descriptionContext":"Projet final de la formation dev web, il permet d'évaluer les capacités d'un étudiant en autonomie sur l'ensemble des sujets vus pendant la formation.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/la-taverne"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://lataverne.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["React", "Express", "MySQL", "WebSockets"]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Plein"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"2,5 jours"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Octobre 2023"
+                },
+                "code":{
+                    "td":"Invitation",
+                    "content":"lecode"
+                },
+                "adminCode":{
+                    "td":"Admin",
+                    "content":"admin@admin.fr / !Azerty123"
+                }
+            },
+            {
+                "id":7,
+                "title":"Geocode",
+                "path":"geocode.png",
+                "descriptionApp":"Site permetant de localiser les bornes de recharge pour voitures électriques et de les réserver, lecture et intégration en BDD d'un csv fourni par l'état pour obtenir l'emplacement des différentes bornes.",
+                "descriptionContext":"Ce projet est notre projet de groupe final, habituellement utilisé pour présenter le titre de développeur web.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/geocode"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://geocode.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["React", "Express", "MySQL", "OpenStreetMaps"]
+                },
+                "contributors":{
+                    "td":"Collaborateurs",
+                    "content":[
+                        {
+                            "name":"Adrien",
+                            "link":"https://github.com/Achapeau"
+                        },
+                        {
+                            "name":"David",
+                            "link":"https://github.com/DavidDcl"
+                        },
+                        {
+                            "name":"Tristan",
+                            "link":"https://github.com/TristanBrMa"
+                        }
+                    ]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Partiel"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"8 semaines"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Octobre 2023"
+                },
+                "code":{
+                    "td":"Utilisateur",
+                    "content":"Utilisateur / !Azerty123"
+                },
+                "adminCode":{
+                    "td":"Admin",
+                    "content":"Administrateur / !Azerty123"
+                }
+            },
+            {
+                "id":6,
+                "title":"World Catastrophe Survival",
+                "path":"wcs.png",
+                "descriptionApp":"Site permettant de se former à la survie dans un monde post-apocalyptique, consultation de tutoriels, réservation de cours en ligne, agenda de la météo des catastrophes, aide via Chatbot.",
+                "descriptionContext":"Second Hackathon, avec comme lignes directrices \"Accessibilité\" et \"I.A\".",
+                "descriptionAnnex":"Amélioration de la gestion du travail d'équipe par rapport au premier Hackathon.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/world-catastrophe-survival"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://wcs.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["JavaScript", "React", "MySQL", "GPT"]
+                },
+                "contributors":{
+                    "td":"Collaborateurs",
+                    "content":[
+                        {
+                            "name":"Cédric",
+                            "link":"https://github.com/Cedricsia"
+                        },
+                        {
+                            "name":"David",
+                            "link":"https://github.com/DavidDcl"
+                        },
+                        {
+                            "name":"Killian",
+                            "link":"https://github.com/KillianCousseau"
+                        },
+                        {
+                            "name":"Thibaut",
+                            "link":"https://github.com/ThibautPZ"
+                        }
+                    ]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Continu"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"2,5 jours"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Septembre 2023"
+                },
+                "code":{
+                    "td":"Connexion",
+                    "content":"user@user.fr / user"
+                }
+            },
+            {
+                "id":5,
+                "title":"Timehub",
+                "path":"timehub.png",
+                "descriptionApp":"Réseau social multi-temporalisé, il permet la communication entre différentes époques, via posts ou messagerie instantanée.",
+                "descriptionContext":"Premier hackathon, apprentissage des effets du café et de la fatigue sur la qualité du code, premier backend codé pour un projet.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/timehub"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://timehub.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["JavaScript", "React", "MySQL"]
+                },
+                "contributors":{
+                    "td":"Collaborateurs",
+                    "content":[
+                        {
+                            "name":"Cédric",
+                            "link":"https://github.com/Cedricsia"
+                        },
+                        {
+                            "name":"David",
+                            "link":"https://github.com/DavidDcl"
+                        },
+                        {
+                            "name":"Killian",
+                            "link":"https://github.com/KillianCousseau"
+                        },
+                        {
+                            "name":"Thibaut",
+                            "link":"https://github.com/ThibautPZ"
+                        }
+                    ]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Continu"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"30 heures"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Juillet 2023"
+                },
+                "code":{
+                    "td":"Connexion",
+                    "content":"Albert / nuitblanche"
+                }
+            },
+            {
+                "id":4,
+                "title":"Cinéreact",
+                "path":"cinereact.png",
+                "descriptionApp":"Référence mondiale des actualités du monde du cinéma, Cinéreact vous permet de tout savoir sur les films/séries, les plus récents comme les plus anciens !",
+                "descriptionContext":"Second projet en équipe, axé sur l'apprentissage de React et de ses composants, de la consommation d'APIs, ainsi que la methodologie SCRUM.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/cinereact"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://cinereact.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["JavaScript", "React", "API's"]
+                },
+                "contributors":{
+                    "td":"Collaborateurs",
+                    "content":[
+                        {
+                            "name":"Claire",
+                            "link":"https://github.com/Claire2311"
+                        },
+                        {
+                            "name":"Thibaut",
+                            "link":"https://github.com/ThibautPZ"
+                        }
+                    ]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Partiel"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"4 semaines"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Juillet 2023"
+                }
+            },
+            {
+                "id":3,
+                "title":"Team Generator",
+                "path":"picker.svg",
+                "descriptionApp":"Site fonctionnant grâce à une liste, il permet d'y choisir une victime quand le nombre de volontaires vient à manquer, ou alors de générer des équipes randomisées pour éviter le copinage.",
+                "descriptionContext":"Premier projet Solo, réalisé sur un weekend, peu après le début de la formation dev. web pour résoudre des problématiques de perte de temps lors des cours.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/picker"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://picker.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["JavaScript", "React"]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Plein"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"10 heures"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Juin 2023"
+                }
+            },
+            {
+                "id":2,
+                "title":"Choco Clicker",
+                "path":"choco-clicker.webp",
+                "descriptionApp":"Jeu codé de manière à vous rendre addict à la célèbre Chocolatine du sud-ouest. Gagnez vos premières chocolatines et engagez des personnes pour vos aider à en collecter le plus possible !!",
+                "descriptionContext":"Premier projet réalisé 1 semaine après le début de la formation, cuisiné à base de JS, HTML, CSS vanilla avec un soupçon d'apprentissage des workflows et du travail d'équipe.",
+                "linkGit":{
+                    "name":"GitHub",
+                    "address":"https://github.com/cdnsamuel/choco-clicker"
+                },
+                "linkSite":{
+                    "name":"Démo",
+                    "address":"https://choco-clicker.cdnsamuel.fr"
+                },
+                "technologies":{
+                    "td":"Technologies",
+                    "content":["HTML", "CSS", "JavaScript"]
+                },
+                "contributors":{
+                    "td":"Collaborateurs",
+                    "content":[
+                        {
+                            "name":"Annie",
+                            "link":"https://github.com/annieccar"
+                        },
+                        {
+                            "name":"Nicolas",
+                            "link":"https://github.com/NicoWCS"
+                        }
+                    ]
+                },
+                "time":{
+                    "td":"Temps",
+                    "content":"Partiel"
+                },
+                "duration":{
+                    "td":"Durée",
+                    "content":"2 semaines"
+                },
+                "delivery":{
+                    "td":"Livraison",
+                    "content":"Mai 2023"
+                }
+            }
+        ],
+        "notice":{
+            "title":"Title",
+            "content":"Content",
+            "link":"Link",
+            "picturePath":"Path"
+        }      
+    },
+    "phone":"06 51 69 00 39"
+}
