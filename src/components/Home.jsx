@@ -17,6 +17,7 @@ function Home() {
             <div className="font-fira text-base-100">
               <p>{language.header.p2}</p>
               <p>{language.header.p3}</p>
+              <p>{language.header.p4}</p>
             </div>
         </div>
       </div>

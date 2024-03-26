@@ -8,17 +8,18 @@
         "p1":"Hello there ! Je suis",
         "h1":"Cardonnel Samuel",
         "h2":"Je mets toujours du coeur à l'ouvrage",
-        "p2":"Développeur web formé à l'AdminSys.",
-        "p3":"Je recherche une entreprise pour une Alternance => Administrateur systèmes DevOps"
+        "p2":"Chiropracteur en reconversion, je souhaite devenir SysOps.",
+        "p3":"Actuellement j'ai un titre de Développeur Web et une formation d'AdminSys.",
+        "p4":"Je recherche une entreprise pour une Alternance => Bachelor \"Système Réseaux Cybersécurité\"."
     },
     "presentation":{
-        "p1":"J’ai décidé il y a un an d’effectuer une reconversion afin de devenir Ingénieur DevOps. Après une première carrière en tant que Chiropracteur.",
+        "p1":"J’ai décidé il y a un an d’effectuer une reconversion afin de devenir SysOps. Après une première carrière en tant que Chiropracteur.",
         "p2":"Je suis maintenant en possession d’un titre de développeur web et d’une formation d’administrateur systèmes et réseaux.",
-        "p3":"Inscrit au sein de Datascientest pour une alternance en DevOps.",
+        "p3":"Inscrit au sein de l'IPI pour effectuer un Bachelor en alternance \"Systèmes Réseaux Cybersécurité\" que je poursuivrai avec un Master.",
         "p4":"Je souhaite mettre mes compétences à disposition d’une entreprise auprès de laquelle je pourrais contribuer à un projet novateur et concret.",
-        "availability":"Disponibilité : Mars 2024",
-        "rythm":"Rythme : 3 semaines en entreprise / 1 semaine en formation",
-        "contract":"Contrat de professionnalisation (18 mois)"
+        "duration":"Dates : Septembre 2024 - Septembre 2025",
+        "contract":"Type : Contrat de professionnalisation (12/36 mois)",
+        "rythm":"Rythme : 3 semaines en entreprise / 1 semaine en formation"
     },
     "skills":{
         "languages":{
@@ -134,17 +135,11 @@
             ]
         }
     },
-    "educationTitle":"Diplômes",
+    "educationTitle":"Formations",
     "education":[
         {
-            "id":6,
-            "title":"Alternance Ingénieur DevOps",
-            "period":"Mars 2024 - Septembre 2025",
-            "school":"Datascientest"
-        },
-        {
             "id":5,
-            "title":"Formation Administrateur Systèmes et Réseaux",
+            "title":"POEC Administrateur Systèmes et Réseaux",
             "period":"Novembre 2023 - Février 2024",
             "school":"Wild Code School"
         },
@@ -195,7 +190,7 @@
         },
         {
             "id":2,
-            "title":"Vendeur en Multimédia",
+            "title":"Vendeur multimédia",
             "firstYear":"2013",
             "lastYear":"2018",
             "enterprise":"Darty Portet",

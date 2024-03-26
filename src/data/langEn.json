@@ -8,17 +8,18 @@
         "p1":"Hello there ! I'am",
         "h1":"Cardonnel Samuel",
         "h2":"I always put my heart into my work",
-        "p2":"Web developer trained in AdminSys.",
-        "p3":"Looking for an enterprise to do my Apprenticeship => DevOps systems administrator"
+        "p2":"Chiropractor retraining to become SysOps.",
+        "p3":"Actually owning a Web developper title and an Adminsys training.",
+        "p4":"Looking for an enterprise to do my Apprenticeship => Bachelor \"Systems Networks Cybersecurity\"."
     },
     "presentation":{
-        "p1":"A year ago, I decided to retrain to become a DevOps Engineer. After a first career as a Chiropractor.",
+        "p1":"A year ago, I decided to retrain to become SysOps. After a first career as a Chiropractor.",
         "p2":"I'm currently owning a title of Web & mobile web developper and a training of System and network administrator.",
-        "p3":"Accepted at Datascientest for a DevOps apprenticeship.",
+        "p3":"Accepted at IPI to do a Bachelor through an apprenticeship \"Systems Networks Cybersecurity\" i'll continue with a Master degree.",
         "p4":"I would like to make my skills available to a company where i could contribute to an innovative and concrete project.",
-        "availability":"Availability : Mars 2024",
-        "rythm":"Rythm : 3 weeks in entreprise / 1 week at school",
-        "contract":"Professionalization contract (18 months)"
+        "duration":"Duration : September 2024 - Septembre 2025",
+        "contract":"Type : Professionalization contract (18 months)",
+        "rythm":"Rythm : 3 weeks in entreprise / 1 week at school"
     },
     "skills":{
         "languages":{
@@ -137,12 +138,6 @@
     "educationTitle":"Education",
     "education":[
         {
-            "id":6,
-            "title":"Apprenticeship DevOps engineer",
-            "period":"March 2024 - September 2025",
-            "school":"Datascientest"
-        },
-        {
             "id":5,
             "title":"Networks & Systems Admministrator training",
             "period":"November 2023 - February 2024",
@@ -195,7 +190,7 @@
         },
         {
             "id":2,
-            "title":"IT Salesman",
+            "title":"IT salesman",
             "firstYear":"2013",
             "lastYear":"2018",
             "enterprise":"Darty Portet",
