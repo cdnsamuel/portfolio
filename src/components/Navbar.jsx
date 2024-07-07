@@ -53,10 +53,10 @@ function Navbar() {
               <input onClick={toggleLanguage} type="checkbox" className="toggle toggle-sm" />
             </label>
           </div>
-          {Boolean(theme === "portfolioDark") && <a href={`/files/Samuel-Cardonnel-CV2024-${language === langFr ? "FR" : "EN"}-DT.pdf`}  target="_blank" rel="noreferrer">
+          {Boolean(theme === "portfolioDark") && <a href={`/files/Samuel-Cardonnel-CV2024-Dev-${language === langFr ? "FR" : "EN"}-DT.pdf`}  target="_blank" rel="noreferrer">
             <button type="button" className="btn btn-outline btn-accent ">cv.pdf</button>
           </a>}
-          {Boolean(theme === "portfolioLight") && <a href={`/files/Samuel-Cardonnel-CV2024-${language === langFr ? "FR" : "EN"}-LT.pdf`}  target="_blank" rel="noreferrer">
+          {Boolean(theme === "portfolioLight") && <a href={`/files/Samuel-Cardonnel-CV2024-Dev-${language === langFr ? "FR" : "EN"}-LT.pdf`}  target="_blank" rel="noreferrer">
             <button type="button" className="btn btn-outline btn-accent ">cv.pdf</button>
           </a>}
         </div>

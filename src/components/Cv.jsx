@@ -29,6 +29,7 @@ function Experiences() {
               <p>{language.presentation.duration}</p>
               <p>{language.presentation.contract}</p>
               <p>{language.presentation.rythm}</p>
+              <p>{language.presentation.availability}</p>
           </div>
         </div>
         <div className="flex justify-around flex-wrap gap-x-1 md:gap-x-2 gap-y-2  px-4 py-2 border-t-2 border-accent border-opacity-20 font-fira text-base-200 text-justify text-sm ">

@@ -8,18 +8,19 @@
         "p1":"Hello there ! I'am",
         "h1":"Cardonnel Samuel",
         "h2":"I always put my heart into my work",
-        "p2":"Chiropractor retraining to become SysOps.",
+        "p2":"Chiropractor retraining to become DevOps.",
         "p3":"Actually owning a Web developper title and an Adminsys training.",
-        "p4":"Looking for an enterprise to do my Apprenticeship => Bachelor \"Systems Networks Cybersecurity\"."
+        "p4":"Looking for an enterprise to do my Apprenticeship => Bachelor \"Developer\"."
     },
     "presentation":{
-        "p1":"A year ago, I decided to retrain to become SysOps. After a first career as a Chiropractor.",
+        "p1":"A year ago, I decided to retrain to become DevOps. After a first career as a Chiropractor.",
         "p2":"I'm currently owning a title of Web & mobile web developper and a training of System and network administrator.",
-        "p3":"Accepted at IPI to do a Bachelor through an apprenticeship \"Systems Networks Cybersecurity\" i'll continue with a Master degree.",
+        "p3":"Accepted at IPI to do a Bachelor through an apprenticeship \"Developer\" i'll continue with a \"DevOps\" Master degree.",
         "p4":"I would like to make my skills available to a company where i could contribute to an innovative and concrete project.",
-        "duration":"Duration : September 2024 - Septembre 2025",
-        "contract":"Type : Professionalization contract (18 months)",
-        "rythm":"Rythm : 3 weeks in entreprise / 1 week at school"
+        "duration":"Duration : 12 then 24 month",
+        "contract":"Type : Professionalization contract",
+        "rythm":"Rythm : 3 weeks in entreprise / 1 week at school",
+        "availability":"Availability : 20 August 2024"
     },
     "skills":{
         "languages":{
