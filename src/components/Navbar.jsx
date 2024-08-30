@@ -80,10 +80,10 @@ function Navbar() {
                 </label>
             </li>
             <li>
-              {Boolean(theme === "portfolioDark") && <a href={`/files/Samuel-Cardonnel-CV2024-${language === langFr ? "FR" : "EN"}-DT.pdf`} target="_blank" rel="noreferrer">
+              {Boolean(theme === "portfolioDark") && <a href={`/files/Samuel-Cardonnel-CV2024-Dev-${language === langFr ? "FR" : "EN"}-DT.pdf`} target="_blank" rel="noreferrer">
                 <button type="button" className="btn btn-accent btn-sm text-primary">cv.pdf</button>
               </a>}
-              {Boolean(theme === "portfolioLight") && <a href={`/files/Samuel-Cardonnel-CV2024-${language === langFr ? "FR" : "EN"}-LT.pdf`} target="_blank" rel="noreferrer">
+              {Boolean(theme === "portfolioLight") && <a href={`/files/Samuel-Cardonnel-CV2024-Dev-${language === langFr ? "FR" : "EN"}-LT.pdf`} target="_blank" rel="noreferrer">
                 <button type="button" className="btn btn-accent btn-sm text-primary">cv.pdf</button>
               </a>}
             </li>
